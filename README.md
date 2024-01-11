@@ -20,4 +20,13 @@ This Python script implements a random number guessing game where the player tri
 
    ```bash
    git clone https://github.com/your-username/random-number-guessing-game.git
+
+2. Open the directory:
+
+   ```bash
    cd random-number-guessing-game
+
+3. Run the program:
+
+   ```bash
+   python main.py
